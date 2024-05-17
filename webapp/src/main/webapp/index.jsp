@@ -10,7 +10,7 @@
   <body>  
     <nav>
       <div class="logo">
-        <h3>Yusuf.A CI/CD for Kubernetes Project</h3>
+        <h3>Yusuf.A Kubernetes Project</h3>
       </div>
       <div class="navigation-bar">
         <ul>
